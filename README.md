@@ -23,6 +23,16 @@ I actually started doing this to keep all my bookmarked websites neatly organize
 
 <br>
 
+## Games
+* [Codédex (HTML, CSS, JavaScript, Python)](https://www.codedex.io/): Journey through the fantasy land of Python, HTML, CSS, or JavaScript. Along the way, earn experience points (XP) to unlock new regions and collect badges.
+* [Codingame (Many languages)](https://www.codingame.com/start/): Level up your coding with games, puzzles, and challenges.
+* [CSS Diner (CSS)](https://flukeout.github.io/): Learn CSS selectors.
+* [Oh My Git! (Git)](https://ohmygit.org/): An open source game about learning Git.
+* [SQL Murder Mystery (SQL)](https://mystery.knightlab.com/): There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+* [WarriorJS (JavaScript)](https://warriorjs.com/): Code your way through dungeons, prove your skills, and get hired.
+
+<br>
+
 ## Project Ideas
 * [AppIdeas](https://github.com/florinpop17/app-ideas): Not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up.
 
@@ -30,6 +40,14 @@ I actually started doing this to keep all my bookmarked websites neatly organize
 
 ## Resources
 * [Collect UI](https://collectui.com/challenges): Daily inspiration collected from Daily UI archive and beyond.
+* [UIVerse](https://uiverse.io/): Create, share, and use beautiful custom elements made with CSS or TailwindCSS.
+
+<br>
+
+## Learning
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript): A guide to producing readable, reusable, and refactorable software in JavaScript.
+* [CSS Tricks](https://css-tricks.com/): Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+* [Developer Roadmaps](https://roadmap.sh/): A community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
 
 <br>
 
