@@ -7,9 +7,8 @@ I actually started doing this to keep all my bookmarked websites neatly organize
 <br>
 
 
-## Challenges and Projects
+## Challenges
 * [AdventJS](https://adventjs.dev/): JavaScript coding challenges every day of December.
-* [AppIdeas](https://github.com/florinpop17/app-ideas): Not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up.
 * [Codier](https://codier.io/): Explore and attempt front-end coding challenges.
 * [Codewars](https://www.codewars.com/): Coding challenges to improve coding skills.
 * [CSSBattle](https://cssbattle.dev/): The funnest multiplayer game with 300K+ web designers & developers. Replicate the target images using CSS - the shorter your code, the higher your score.
@@ -21,6 +20,11 @@ I actually started doing this to keep all my bookmarked websites neatly organize
 * [iCodeThis](https://icodethis.com/): There's a new coding challenge awaiting for you every day, and you have 24 hours to complete it.
 * [JavaScript30](https://javascript30.com/): 30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials.
 * [LeetCode](https://leetcode.com/explore/): Provides coding and algorithmic problems intended for users to practice coding.
+
+<br>
+
+## Project Ideas
+* [AppIdeas](https://github.com/florinpop17/app-ideas): Not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up.
 
 <br>
 
