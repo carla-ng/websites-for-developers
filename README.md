@@ -38,6 +38,11 @@ I actually started doing this to keep all my bookmarked websites neatly organize
 
 <br>
 
+## APIs
+* [RapidAPI](https://rapidapi.com/): A multi-cloud, customized hub to find, connect to, and share APIs.
+
+<br>
+
 ## Resources
 * [Collect UI](https://collectui.com/challenges): Daily inspiration collected from Daily UI archive and beyond.
 * [UIVerse](https://uiverse.io/): Create, share, and use beautiful custom elements made with CSS or TailwindCSS.
