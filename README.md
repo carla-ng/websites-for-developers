@@ -57,6 +57,7 @@ I actually started doing this to keep all my bookmarked websites neatly organize
 <br>
 
 ## Interviews and Tech Knowledge
+* [30 Seconds of Interviews](https://30secondsofinterviews.org/): A curated collection of common web development interview questions to help you prepare for your next interview.
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions): A curated list of lists of technical interview questions.
 * [Codesignal](https://codesignal.com/developers/): Practice for technical interviews.
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university): A study plan for Software Engineering.
